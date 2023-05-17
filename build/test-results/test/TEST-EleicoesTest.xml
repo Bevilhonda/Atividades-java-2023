@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EleicoesTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-15T19:32:13" hostname="marcelo-desktop" time="0.043">
+  <properties/>
+  <testcase name="Eleicoes()" classname="EleicoesTest" time="0.043"/>
+  <system-out><![CDATA[O Total de Votos validos foram 75.0
+À porcentagem de votos válidos  é : 75.0%
+À porcentagem de votos brancos é : 20.0%
+À porcentagem de votos nulos é : 5.0%
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
